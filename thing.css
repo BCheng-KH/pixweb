@@ -1,0 +1,71 @@
+body{
+
+}
+
+.mything {
+	padding: 10px;
+}
+#myCanvas{
+	margin:auto;
+	border: 5px;
+	border-style: solid;
+	
+	border-color: blue;
+}
+.centerThis{
+	margin: auto;
+	width: 810px;
+}
+#check{
+	background-color: #FFFFFF;
+	border: 2px;
+	padding:10;
+}
+#mainH, #subH{
+	text-align: center;
+}
+
+.textBox{
+
+	border:1px;
+	border-style: solid;
+	border-color:black;
+	border-radius: 5px;
+	background: white;
+	padding:5px;
+	color:black;
+}
+
+.inBox{
+	border-color:white;
+}
+
+.pink{
+	background-color:pink;
+	color: black;
+}
+
+.grey{
+	background-color:grey;
+	color: white;
+}
+
+.blue{
+	background-color:cadetblue;
+	color: white;
+}
+
+.aqua{
+	background-color:aquamarine;
+	color: black;
+}
+
+.almond{
+	background-color:blanchedalmond;
+	color: black;
+}
+
+.green{
+	background-color:lightgreen;
+	color: black;
+}
